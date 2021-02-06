@@ -8,7 +8,7 @@ Challenge file link: https://mega.nz/file/PtsFHYzY#tKDykxlC1Uj5FniYU947AMRFJubc8
 
 In this challenge we got `.E01` file we can use many tools to analyze it for example `ftkimager` ,`autopsy` etc.
 
-For this challenge i have used `ftkimager` open `E01` file in `ftkimager` and  after surfing through all the files we can see in `favourites` folder and going in `drive` folder. Now we can `topsecret.zip` let's extract it and we will get topsecret.vhdx. let's mount vhdx file and open it we will get 1 txt file which is basically a troll. This is also a drive so let's open it in `ftkimager` and if we check there are some deleted files so one of the deleted file contains the flag.
+For this challenge i have used `ftkimager` open `E01` file in `ftkimager` and  after surfing through all the files we can see in `favourites` folder and going in `drive` folder. Now we can `topsecret.zip` let's extract it and we will get topsecret.vhdx. we can't find the password so let's try to crack it using bitlocker2john and after that let's mount vhdx file and open it we will get 1 txt file which is basically a troll. This is also a drive so let's open it in `ftkimager` and if we check there are some deleted files so one of the deleted file contains the flag.
 
 ### Flag
 
